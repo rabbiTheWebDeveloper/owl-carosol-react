@@ -5,6 +5,7 @@ import 'owl.carousel/dist/assets/owl.theme.default.css';
 const Owl = () => {
     const options = {
         loop: true,
+        dots: true,
         margin: 10,
         items: 1,
         autoplay: true,
